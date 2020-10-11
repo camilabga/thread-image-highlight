@@ -1,1 +1,1 @@
-# thread-image-highlight
+# Realce de Imagens em Nível de Cinza
