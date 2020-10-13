@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "BC0vkh3gNpy32n6nY1/WNl1Nt4PsOLMP38K5GJDh53TsCVXZtK4GKF/3H+ahS1eJePmyzBnG6woIz6KdF20aSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Petch\\source\\repos\\Thread\\ImageProcessing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Petch\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Petch\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Petch\\.nuget\\packages\\skiasharp\\2.80.2\\skiasharp.2.80.2.nupkg.sha512",
+    "C:\\Users\\Petch\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\Petch\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
